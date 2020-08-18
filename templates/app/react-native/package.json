@@ -14,7 +14,7 @@
     "@react-native-community/masked-view": "0.1.5",
     "@react-navigation/drawer": "^5.1.1",
     "@react-navigation/native": "^5.0.9",
-    "@react-navigation/stack": "^5.1.1",
+    "@react-navigation/stack": "^5.8.0",
     "@reduxjs/toolkit": "^1.2.3",
     "axios": "^0.19.2",
     "color": "^3.1.2",
